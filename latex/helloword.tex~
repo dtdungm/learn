@@ -1,0 +1,11 @@
+\documentclass{report}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\begin{document}
+Chào thế giới 
+
+\TeX
+\end{document}
+% Local Variables:
+% TeX-engine: xetex
+% End:
